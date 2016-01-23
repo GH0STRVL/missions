@@ -5128,17 +5128,6 @@ class _vehicle_690
 		PARENT="";
 	};
 };
-class _vehicle_691
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22609.453, 4025.9746, 0.33962592]";
-		TYPE="Land_Dirthump01";
-		AZIMUT="-30.664307";
-		PARENT="";
-	};
-};
 class _vehicle_693
 {
 	objectType="vehicle";
@@ -5774,9 +5763,9 @@ class _vehicle_790
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22201.322, 4327.4272, 0.00012207031]";
+		POSITION="[22194.318, 4330.3179, 3.1872067]";
 		TYPE="MAP_A_Castle_Bergfrit_dam";
-		AZIMUT="-257.30728";
+		AZIMUT="-254.47487";
 		PARENT="";
 	};
 };
@@ -7997,22 +7986,12 @@ class _vehicle_1145
 		PARENT="";
 	};
 };
-class _vehicle_1146
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22657.369, 4006.2378, 0]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
 class _vehicle_1147
 {
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22640.348, 4008.9895, 3.0517578e-005]";
+		POSITION="[22632.391, 3994.9573, 3.0517578e-005]";
 		TYPE="Gold_Vein_DZE";
 		PARENT="";
 	};
@@ -8027,62 +8006,12 @@ class _vehicle_1148
 		PARENT="";
 	};
 };
-class _vehicle_1149
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22633.539, 4024.6362, 0.00012207031]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1150
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22650.824, 4045.3584, 3.0517578e-005]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1151
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22655.59, 4022.2568, -9.1552734e-005]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1152
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22681.066, 4035.6428, 3.0517578e-005]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
 class _vehicle_1153
 {
 	objectType="vehicle";
 	class Arguments
 	{
 		POSITION="[22700.238, 4050.3118, 0.00015258789]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1154
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22668.371, 4050.1692, 0]";
 		TYPE="Gold_Vein_DZE";
 		PARENT="";
 	};
@@ -8097,82 +8026,12 @@ class _vehicle_1155
 		PARENT="";
 	};
 };
-class _vehicle_1156
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22638.895, 4066.3677, 0.00015258789]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1157
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22643.822, 4056.9348, 6.1035156e-005]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
 class _vehicle_1158
 {
 	objectType="vehicle";
 	class Arguments
 	{
 		POSITION="[22625.396, 4053.3867, 3.0517578e-005]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1159
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22630.934, 4036.3328, 6.1035156e-005]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1160
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22598.74, 4029.9294, 0]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1161
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22610.303, 4064.2412, 3.0517578e-005]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1162
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22622.494, 4064.1848, 0.00012207031]";
-		TYPE="Gold_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1163
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22567.977, 4063.4355, -3.0517578e-005]";
 		TYPE="Gold_Vein_DZE";
 		PARENT="";
 	};
@@ -8197,56 +8056,6 @@ class _vehicle_1165
 		PARENT="";
 	};
 };
-class _vehicle_1166
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22627.332, 4075.4919, -0.00024414063]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1167
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22652.057, 4069.8198, 0]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1168
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22667.541, 4076.6138, 6.1035156e-005]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1169
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22659.729, 4054.5208, 6.1035156e-005]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1170
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22642.256, 4030.9014, 6.1035156e-005]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
 class _vehicle_1171
 {
 	objectType="vehicle";
@@ -8267,62 +8076,12 @@ class _vehicle_1172
 		PARENT="";
 	};
 };
-class _vehicle_1173
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22598.805, 4057.752, 9.1552734e-005]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1174
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22613.578, 4003.5698, 3.0517578e-005]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1175
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22585.619, 4067.6624, 0]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
 class _vehicle_1176
 {
 	objectType="vehicle";
 	class Arguments
 	{
 		POSITION="[22559.607, 4079.3811, 9.1552734e-005]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1177
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22548.828, 4065.4968, 0]";
-		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1178
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22627.855, 4006.2549, 0.00012207031]";
 		TYPE="Silver_Vein_DZE";
 		PARENT="";
 	};
@@ -8342,7 +8101,7 @@ class _vehicle_1180
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22691.621, 4070.9182, 6.1035156e-005]";
+		POSITION="[22658.512, 3983.8406, 6.1035156e-005]";
 		TYPE="Silver_Vein_DZE";
 		PARENT="";
 	};
@@ -8354,16 +8113,6 @@ class _vehicle_1181
 	{
 		POSITION="[22720.252, 4034.7114, 0.0002746582]";
 		TYPE="Silver_Vein_DZE";
-		PARENT="";
-	};
-};
-class _vehicle_1182
-{
-	objectType="vehicle";
-	class Arguments
-	{
-		POSITION="[22735.244, 4030.3242, 9.1552734e-005]";
-		TYPE="Gold_Vein_DZE";
 		PARENT="";
 	};
 };
@@ -12478,10 +12227,10 @@ class _unit_16
 	objectType="unit";
 	class Arguments
 	{
-		POSITION="[22325.807, 4410.2573, 9.1552734e-005]";
+		POSITION="[22911.525, 3662.9038, 9.1552734e-005]";
 		GROUP="_group_0";
 		TYPE="US_Army_Soldier_AA";
-		AZIMUT="-289.80295";
+		AZIMUT="-116.21155";
 		SKILL="0.60000002";
 		PLAYER="true";
 		PLAYABLE="true";
@@ -14216,7 +13965,7 @@ class _vehicle_1890
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22168.469, 4321.9541, -0.00079345703]";
+		POSITION="[22170.627, 4329.189, -0.00079345703]";
 		TYPE="MAP_R2_RockWall";
 		AZIMUT="43.231194";
 		PARENT="";
@@ -14249,7 +13998,7 @@ class _vehicle_1893
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22149.568, 4361.3071, 0.00018310547]";
+		POSITION="[22152.227, 4359.2627, 0.00018310547]";
 		TYPE="MAP_R2_RockWall";
 		AZIMUT="97.241486";
 		PARENT="";
@@ -14260,7 +14009,7 @@ class _vehicle_1894
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22156.641, 4316.7275, 0.00012207031]";
+		POSITION="[22161.402, 4322.1616, 0.00012207031]";
 		TYPE="MAP_R2_RockWall";
 		AZIMUT="34.357597";
 		PARENT="";
@@ -14313,9 +14062,9 @@ class _vehicle_1901
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22324.264, 4390.8354, -14.836401]";
+		POSITION="[22328.072, 4387.5879, -14.836401]";
 		TYPE="MAP_R2_RockWall";
-		AZIMUT="2.7531238";
+		AZIMUT="-8.1946392";
 		PARENT="";
 	};
 };
@@ -15103,9 +14852,9 @@ class _vehicle_1985
 	objectType="vehicle";
 	class Arguments
 	{
-		POSITION="[22798.861, 4381.7505, 3.5280037]";
+		POSITION="[22797.771, 4435.7856, 27.107008]";
 		TYPE="MAP_A_Castle_Bergfrit_dam";
-		AZIMUT="-1.0763524";
+		AZIMUT="3.3050468";
 		PARENT="";
 	};
 };
@@ -16375,6 +16124,70 @@ class _vehicle_2133
 		POSITION="[22776.088, 4305.9741, 11.636537]";
 		TYPE="AmmoBoxBig";
 		PARENT="";
+	};
+};
+class _vehicle_2134
+{
+	objectType="vehicle";
+	class Arguments
+	{
+		POSITION="[22801.756, 4438.1206, 57.55888]";
+		TYPE="Igla_AA_pod_TK_EP1";
+		AZIMUT="113.8501";
+		PARENT="";
+	};
+};
+class _vehicle_2135
+{
+	objectType="vehicle";
+	class Arguments
+	{
+		POSITION="[22189.279, 4332.1709, 34.206043]";
+		TYPE="Igla_AA_pod_TK_EP1";
+		PARENT="";
+	};
+};
+class _vehicle_2137
+{
+	objectType="vehicle";
+	class Arguments
+	{
+		POSITION="[22412.25, 3423.166, 65.713539]";
+		TYPE="Igla_AA_pod_TK_EP1";
+		PARENT="";
+	};
+};
+class _unit_23
+{
+	objectType="unit";
+	class Arguments
+	{
+		POSITION="[22927.566, 3658.9436, 0]";
+		GROUP="_group_0";
+		TYPE="GUE_Soldier_MG_DZ";
+		SKILL="0.60000002";
+	};
+};
+class _unit_24
+{
+	objectType="unit";
+	class Arguments
+	{
+		POSITION="[22929.098, 3657.9226, 3.0517578e-005]";
+		GROUP="_group_0";
+		TYPE="GUE_Soldier_MG_DZ";
+		SKILL="0.60000002";
+	};
+};
+class _unit_25
+{
+	objectType="unit";
+	class Arguments
+	{
+		POSITION="[22929.697, 3659.7708, 0]";
+		GROUP="_group_0";
+		TYPE="GUE_Soldier_MG_DZ";
+		SKILL="0.60000002";
 	};
 };
 class _postfix_0
