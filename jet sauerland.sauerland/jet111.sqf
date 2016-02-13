@@ -1,29 +1,3 @@
-activateAddons [ 
-  "bb_mercenary",
-  "map_eu",
-  "mbg_killhouses"
-];
-
-activateAddons ["bb_mercenary", "map_eu", "mbg_killhouses"];
-initAmbientLife;
-
-_this = createCenter west;
-_center_0 = _this;
-
-_group_0 = createGroup _center_0;
-
-_unit_0 = objNull;
-if (true) then
-{
-  _this = _group_0 createUnit ["US_Army_Soldier_AA", [15175.795, 18299.957, 1.5258789e-005], [], 0, "CAN_COLLIDE"];
-  _unit_0 = _this;
-  _this setDir -0.16126102;
-  _this setUnitAbility 0.60000002;
-  if (true) then {_group_0 selectLeader _this;};
-  if (true) then {selectPlayer _this;};
-  if (true) then {setPlayable _this;};
-};
-
 _vehicle_7 = objNull;
 if (true) then
 {
@@ -863,7 +837,3 @@ if (true) then
   _vehicle_136 = _this;
   _this setPos [15177.283, 18307.314, -1.5258789e-005];
 };
-
-processInitCommands;
-runInitScript;
-finishMissionInit;
